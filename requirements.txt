@@ -1,0 +1,2 @@
+# Add any libraries that must first be installed (i.e. pygame or pyperclip)
+# pygame (uncommented)

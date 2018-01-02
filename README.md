@@ -4,3 +4,4 @@
 
 2/3. Encoded in the library. Travis-ci build status:
 [![Build Status](https://travis-ci.org/spencerhln/qa_tester.svg?branch=master)](https://travis-ci.org/spencerhln/qa_tester)
+Travis-ci build link: https://travis-ci.org/spencerhln/qa_tester
